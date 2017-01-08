@@ -5,7 +5,6 @@
   </div>
   <div class="mdl-card__actions">
     <span class="filename">{{gif.slug}}</span>
-    <i class="material-icons">favorite</i>
   </div>
 </div>
 </template>
