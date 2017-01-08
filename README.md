@@ -1,6 +1,10 @@
 # vue-gipfy
 
-> A Vue.js project
+Vue.jsの学習用のアプリケーション。
+下記のURLを参考に作成。
+http://engineer.recruit-lifestyle.co.jp/techblog/2016-09-15-try-vue-flux/
+
+GiphyのAPIを使ってGif画像を検索するSPA(1ページしかない)。
 
 ## Build Setup
 
